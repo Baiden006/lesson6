@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(68, 83, 219);
+}   
+table{
+    margin: auto;
+    background-color: darkcyan;
+}
+.name{
+    background-color: rgb(110, 0, 96);
+}
+td:hover{
+    background-color: crimson;
+}
